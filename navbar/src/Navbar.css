@@ -1,0 +1,27 @@
+.fb, .tw, .li, .be, .add{
+    color:#49a6e9;
+}
+.code{
+    color: #242424;
+    text-shadow: 2px 2px #dbdbdb;
+    letter-spacing: 2px;
+}
+.add{
+    text-shadow: 2px 2px #dbdbdb;
+    letter-spacing: 2px;
+}
+.letter{
+    letter-spacing: 2px;
+}
+.fb:hover{
+    color:#8bcbf9
+}
+.tw:hover{
+    color:#8bcbf9
+}
+.li:hover{
+    color:#8bcbf9
+}
+.be:hover{
+    color:#8bcbf9
+}

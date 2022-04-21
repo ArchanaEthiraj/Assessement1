@@ -1,0 +1,44 @@
+.our{
+    color: #102a42;
+}
+.line{
+    color: #dbbd85;
+}
+.color{
+    color: #dbbd85;
+    cursor: pointer;
+    font-weight: bold;
+}
+.borders{
+    color: #dbbd85;
+    border: solid;
+}
+.title{
+    color:#102a42;
+    font-weight: 500;
+    font-size: larger;
+    letter-spacing: 2px;
+}
+.price{
+    color: #dbbd85;
+    font-weight: 500;
+}
+.desc{
+    color: #7f94ac;
+}
+.tabs{
+    margin: 10px;
+}
+.color1:hover{
+    background-color:#dbbd85;
+    color: white;
+    border-radius: 1%;
+}
+.lines{
+    border-bottom: dotted;
+    color: #dbbd85;
+}
+.sline{
+    border-bottom: 2px;
+    color: #dbbd85;
+}
